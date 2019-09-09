@@ -88,6 +88,11 @@ header nav a {
 	padding: 40px;
 }
 
+hr {
+	border:  1px solid black;
+	margin-left: 30px;
+}
+
 .logo {
 	width: 250px;
 	height: 75px;
@@ -145,4 +150,9 @@ header nav a {
 .copyright {
 	margin-top: 20px;
 	text-align: center;
+}
+
+.middle-img {
+	width: 95%;
+	margin-left: 30px;
 }
